@@ -9,7 +9,7 @@ Credit goes to [this post](https://askubuntu.com/a/1210345) for the update comma
 
 ## How to use
 
-Download the `checkupdates` script, put it in your [PATH](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path) and make it executable (`chmod +x checkupdates`).
+Download the `checkupdates` script, put it in your [PATH](https://unix.stackexchange.com/a/26059) and make it executable (`chmod +x checkupdates`).
 
 To configure, add the following to your Waybar config (`~/.config/waybar/config`).
 
