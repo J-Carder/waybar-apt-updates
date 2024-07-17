@@ -1,5 +1,8 @@
 # waybar-apt-updates
 
+![Screenshot with updates](screenshot-has-updates.png)
+![Screenshot updates](screenshot-updated.png)
+
 A simple Waybar update checking script for distros using the APT package manager. It is a general script and could work with other bars or just be run in the terminal.
 
 Credit goes to [this post](https://askubuntu.com/a/1210345) for the update command.
