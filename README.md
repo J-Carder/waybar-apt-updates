@@ -11,7 +11,7 @@ Credit goes to [this post](https://askubuntu.com/a/1210345) for the update comma
 
 Download the `checkupdates` script, put it in your [PATH](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path) and make it executable (`chmod +x checkupdates`).
 
-To configure, add the following to your Waybar config (`.config/waybar/config`).
+To configure, add the following to your Waybar config (`~/.config/waybar/config`).
 
 
 ```json
@@ -28,7 +28,7 @@ To configure, add the following to your Waybar config (`.config/waybar/config`).
 },
 ```
 
-To style use the `#custom-updates` ID in your Waybar styles file (`.config/waybar/styles.css`).
+To style use the `#custom-updates` ID in your Waybar styles file (`~/.config/waybar/styles.css`).
 
 For more information see the [Waybar wiki](https://github.com/Alexays/Waybar/wiki).
 
